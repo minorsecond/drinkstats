@@ -18,3 +18,7 @@ alc_by_date <- drinks %>%
 alc_vol_graph <- ggplot() +
   geom_line(data = alc_by_date, aes(y = alcohol_vol_oz, x = Date, group = 1)) +
   labs(title = "Alc. Oz by Date", y = "Oz. Alcohol")
+
+std_drinks_graph <- ggplot() +
+  geom_line(data = alc_by_date, aes(y = n_std_drinks, x = Date, group = 1)) +
+  labs(title = "Alc. Oz by Date", y = "Oz. Alcohol")
