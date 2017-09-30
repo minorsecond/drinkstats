@@ -1,5 +1,16 @@
-Brewery,Beer,ABV,IBU,Volume,Date
-Community,Mosaic IPA,8.6,85,12,2017-09-10
-Odell,IPA,7,60,12,2017-09-10
-Community,Mosaic IPA,8.6,85,12,2017-09-12
-Odell,IPA,7,60,12,2017-09-12
+Brewery,Beer,Type,Subtype,ABV,IBU,Volume,Date,MyRating
+Community,Mosaic IPA,IPA,American IPA,8.6,85,12,09-10-2017,7
+Odell,IPA,IPA,American IPA,7,60,12,09-10-2017,7
+Community,Mosaic IPA,IPA,American IPA,8.6,85,12,09-12-2017,7
+Odell,IPA,IPA,American IPA,7,60,12,09-12-2017,7
+Odell, Oktoberfest,Oktoberfest,,6.1,19,12,09-14-2017,6
+New Belgium,Voodoo Ranger,IPA,American IPA,09,50,12,9-14-2017,5
+New Belgium,Abbey,Dubbel,,7,20,12,09-17-2017,4
+Boulevard,The Sixth Glass,Quadrupel,,10.5,22,12,09-17-2017,6
+Lakewood,Coconut Temptress,Stout,Milk Stout,9.1,56,12,09-21-2017,5
+New Holland,Dragons Milk,Stout,Imperial Stout,11,31,12,09-21-2017,7
+Spaten,Oktoberfest,Oktoberfest,,5.9,23,12,09-23-2017,2
+Lakewood,Coconut Temptress,Stout,Milk Stout,9.1,56,12,09-23-2017,5
+North Coast Brewing Co,Old Rasputin,Stout,Imperial Stout,9,75,12,09-25-2017,9
+Ommegang Brewery,Three Philosphers,Quadrupel,,9.70,19,12,09-30-2017,8
+Real Ale,Oktoberfest,Oktoberfest,,5.7,22,12,09-30-2017,5
